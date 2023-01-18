@@ -45,7 +45,7 @@ Let's configure webserver Environment
 
 ![3](https://user-images.githubusercontent.com/106643382/213103181-8352c1d3-f65e-42f1-b9cd-3caf16c19d75.png "3")
 
-And lastly upload your code.
+And lastly upload your code in webserver.
 
 
 
