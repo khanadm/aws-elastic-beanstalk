@@ -47,14 +47,21 @@ Let's configure webserver Environment
 
 And lastly upload your code in webserver & it will like this
 
-![health OK](https://user-images.githubusercontent.com/106643382/213171703-4fcfa60a-4432-4500-920c-f71300b826a7.png "health OK")
+![Heath ok](https://user-images.githubusercontent.com/106643382/213625622-04c7bc79-75c7-4091-9a10-7ca1b08d2611.png "Heath ok") 
 
 
+Let's configure worker 
+
+![1](https://user-images.githubusercontent.com/106643382/213627199-f28283b0-8515-47d0-8736-79205ef4a8c7.png"1")
+
+![2](https://user-images.githubusercontent.com/106643382/213627363-c39b5b01-6a59-4dbe-aad6-be65033bc45e.png "2")
+
+![3](https://user-images.githubusercontent.com/106643382/213627381-3c38bf1c-10f4-446e-aa97-1711cfb6c48a.png "3")
+
+When every thing will ok then when ever you sig in mail will trigger 
 
 
-
-
-
+![mail](https://user-images.githubusercontent.com/106643382/213629419-f5811407-bef1-4a10-82ec-3e329c38dc11.png "mail")
 
 
 
