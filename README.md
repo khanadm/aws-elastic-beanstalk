@@ -58,8 +58,12 @@ Let's configure worker
 
 ![3](https://user-images.githubusercontent.com/106643382/213627381-3c38bf1c-10f4-446e-aa97-1711cfb6c48a.png "3")
 
-When every thing will ok then when ever you sig in mail will trigger 
+When every thing will ok it will show like this 
 
+
+![sigin](https://user-images.githubusercontent.com/106643382/213633775-8427ca37-93b5-4005-aefc-8ed9ff2a5a87.png "sigin")
+
+When ever you sign in it will send a email to your mail adress which you mention in .ebextension 
 
 ![mail](https://user-images.githubusercontent.com/106643382/213629419-f5811407-bef1-4a10-82ec-3e329c38dc11.png "mail")
 
